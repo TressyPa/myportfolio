@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.abcf1779.css",
+    "main.js": "/myportfolio/static/js/main.32855c86.js",
+    "static/media/portfolio1.jpg": "/myportfolio/static/media/portfolio1.4f4cefdeaadfe31729bc.jpg",
+    "static/media/LINDA WANGWE cv.pdf": "/myportfolio/static/media/LINDA WANGWE cv.910a3a2070c163cb95fc.pdf",
+    "static/media/me-about.jpg": "/myportfolio/static/media/me-about.ff5c05f724a9afa8d709.jpg",
+    "static/media/portfolio6.jpg": "/myportfolio/static/media/portfolio6.0aabc6b1674d72e19580.jpg",
+    "static/media/portfolio5.png": "/myportfolio/static/media/portfolio5.0c66c6de54c934bd47d3.png",
+    "static/media/me.png": "/myportfolio/static/media/me.67f511c41b905593ca6d.png",
+    "static/media/portfolio2.jpg": "/myportfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio3.jpg": "/myportfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/myportfolio/static/media/portfolio4.17f3fca330dad2eeee9d.jpg",
+    "index.html": "/myportfolio/index.html",
+    "main.abcf1779.css.map": "/myportfolio/static/css/main.abcf1779.css.map",
+    "main.32855c86.js.map": "/myportfolio/static/js/main.32855c86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abcf1779.css",
+    "static/js/main.32855c86.js"
+  ]
+}
